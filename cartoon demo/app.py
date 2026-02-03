@@ -5,7 +5,6 @@ from torchvision import transforms
 import os
 
 torch.set_grad_enabled(False)
-
 @st.cache_resource
 def load_model():
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -78,3 +77,4 @@ if uploaded_file:
                 file_name="cartoon.png",
                 mime="image/png"
             )
+
