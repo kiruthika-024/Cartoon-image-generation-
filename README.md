@@ -48,12 +48,20 @@ Fast inference
 Works well on human faces
 
 🛠 Tech Stack
-Technology	Purpose
-Python	Programming language
-Streamlit	Web interface
-PyTorch	Deep learning framework
-Torchvision	Image preprocessing
-PIL	Image handling
+
+Python
+
+Streamlit
+
+PyTorch
+
+Torchvision
+
+AnimeGANv2
+
+PIL (Python Imaging Library)
+
+
 📂 Project Structure
 cartoon-yourself-app
 │
@@ -67,21 +75,21 @@ cartoon-yourself-app
 ├── requirements.txt
 └── README.md
 ⚙️ Installation
-1️⃣ Clone Repository
+-> Clone Repository
 git clone https://github.com/yourusername/cartoon-yourself-app.git
-2️⃣ Move to Project Folder
+-> Move to Project Folder
 cd cartoon-yourself-app
-3️⃣ Install Dependencies
+-> Install Dependencies
 pip install -r requirements.txt
-4️⃣ Run the App
+-> Run the App
 streamlit run app.py
 📸 How the App Works
 
-1️⃣ User uploads an image
-2️⃣ Image is resized and normalized
-3️⃣ AnimeGANv2 processes the image
-4️⃣ Cartoon-style output is generated
-5️⃣ User downloads the cartoon image
+->.User uploads an image
+->Image is resized and normalized
+-> AnimeGANv2 processes the image
+-> Cartoon-style output is generated
+-> User downloads the cartoon image
 
 🔮 Future Improvements
 
