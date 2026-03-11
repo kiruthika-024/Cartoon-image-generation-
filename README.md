@@ -1,4 +1,4 @@
-# Cartoon-image-generation-
+# Cartoon-image-generation
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
@@ -58,22 +58,22 @@ AnimeGANv2
  
 📸 How the App Works
 
- User uploads an image
+    User uploads an image
  
- Image is resized and normalized
+    Image is resized and normalized
  
- AnimeGANv2 processes the image
+    AnimeGANv2 processes the image
  
- Cartoon-style output is generated
+   Cartoon-style output is generated
  
- User downloads the cartoon image
+   User downloads the cartoon image
 
 🔮 Future Improvements
 
-🎨 Multiple cartoon styles
+  🎨 Multiple cartoon styles
 
-📹 Cartoon video generation
+  📹 Cartoon video generation
 
-📱 Mobile-friendly UI
+  📱 Mobile-friendly UI
 
-⚡ Faster GPU inference
+  ⚡ Faster GPU inference
