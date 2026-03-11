@@ -50,22 +50,21 @@ Torchvision
 
 AnimeGANv2
 
-PIL (Python Imaging Library)
 ⚙️ Installation
--> Clone Repository
+Clone Repository
 git clone https://github.com/yourusername/cartoon-yourself-app.git
--> Move to Project Folder
+ Move to Project Folder
 cd cartoon-yourself-app
--> Install Dependencies
+  Install Dependencies
 pip install -r requirements.txt
--> Run the App
+   Run the App
 streamlit run app.py
 📸 How the App Works
-->.User uploads an image
-->Image is resized and normalized
--> AnimeGANv2 processes the image
--> Cartoon-style output is generated
--> User downloads the cartoon image
+ .User uploads an image
+ Image is resized and normalized
+ AnimeGANv2 processes the image
+ Cartoon-style output is generated
+ User downloads the cartoon image
 
 🔮 Future Improvements
 
