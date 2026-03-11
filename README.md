@@ -51,7 +51,7 @@ Torchvision
 AnimeGANv2
 
 ⚙️Installation
- 1.Clone Repository- git clone https://github.com/yourusername/cartoon-yourself-app.git
+ 1.Clone Repository- https://github.com/kiruthika-024/Cartoon-image-generation-
  2.Move to Project Folder - cd cartoon-yourself-app
  3.Install Dependencies - pip install -r requirements.txt
  4. Run the App - streamlit run app.py
@@ -64,16 +64,12 @@ AnimeGANv2
  
     AnimeGANv2 processes the image
  
-   Cartoon-style output is generated
+    Cartoon-style output is generated
  
-   User downloads the cartoon image
+    User downloads the cartoon image
 
 🔮 Future Improvements
 
-  🎨 Multiple cartoon styles
+   Multiple cartoon styles
 
-  📹 Cartoon video generation
-
-  📱 Mobile-friendly UI
-
-  ⚡ Faster GPU inference
+   Cartoon video generation
