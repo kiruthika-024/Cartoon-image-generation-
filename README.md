@@ -28,23 +28,14 @@ This project allows users to upload an image and instantly convert it into a car
 
 🖼 Application Preview
 
-(Add screenshots of your app here)
-
-Example:
-
-Original Image
-
-Add screenshot here
-
 Cartoon Image
+### Web Application
+![Web Page](images/webpage.png)
+### Original Image
+![Input Image](images/input.png)
+### Cartoon Output
+![Cartoon Image](images/cartoon.png)
 
-Add screenshot here
-
-Tip: Take screenshots from your app and upload them in a folder called images.
-
-Then use:
-
-![App Screenshot](images/demo.png)
 🧠 Model Used
 
 This project uses AnimeGANv2, a deep learning model designed for fast anime-style image transformation.
