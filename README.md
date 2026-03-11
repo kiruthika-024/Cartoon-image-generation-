@@ -3,6 +3,16 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red)
 ![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-orange)
+## 🖼 Application Preview
+
+### Original Image
+![Input Image](images/input.png)
+
+### Cartoon Output
+![Cartoon Image](images/cartoon.png)
+
+### Web Application
+![Web Page](images/webpage.png)
 
 Transform your photos into anime-style cartoons using AnimeGANv2, PyTorch, and Streamlit.
 
