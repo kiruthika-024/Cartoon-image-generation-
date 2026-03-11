@@ -51,6 +51,7 @@ Torchvision
 AnimeGANv2
 
 ⚙️Installation
+
  1.Clone Repository- https://github.com/kiruthika-024/Cartoon-image-generation-
  
  2.Move to Project Folder - cd cartoon-yourself-app
